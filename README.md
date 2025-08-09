@@ -89,9 +89,3 @@ Then return:
 ![Heatmap](docs/heatmap_example.png)
 
 ---
-
-## 💻 Usage
-
-### 1. Install Requirements
-```bash
-pip install numpy matplotlib seaborn
